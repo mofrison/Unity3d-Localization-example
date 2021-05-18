@@ -1,0 +1,3 @@
+[submodule "Localization"]
+	path = Assets/Source/Code/Localization
+	url = https://github.com/mofrison/Unity3d-Localization
